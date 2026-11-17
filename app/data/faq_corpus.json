@@ -1,0 +1,22 @@
+[
+  {
+    "doc_id": "FAQ-001",
+    "category": "returns",
+    "content": "Refund & Return Policy: Customers can return any undamaged item within 30 days of delivery for a full refund. Refunds are processed back to the original payment method within 5-7 business days."
+  },
+  {
+    "doc_id": "FAQ-002",
+    "category": "shipping",
+    "content": "Shipping & Delivery: Standard shipping takes 3-5 business days. Express shipping takes 1-2 business days. Free standard shipping is automatically applied to all orders over $50."
+  },
+  {
+    "doc_id": "FAQ-003",
+    "category": "account",
+    "content": "Password & Account Access: To reset your password, click 'Forgot Password' on the login page. If your account is locked after 5 failed attempts, wait 30 minutes or request a human agent to unlock it."
+  },
+  {
+    "doc_id": "FAQ-004",
+    "category": "billing",
+    "content": "Payment Methods: We accept Visa, MasterCard, American Express, PayPal, and Apple Pay. We do not accept cryptocurrency or cash on delivery."
+  }
+]

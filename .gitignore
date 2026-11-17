@@ -1,0 +1,12 @@
+# Virtual environment & Python cache
+.venv/
+__pycache__/
+*.py[cod]
+
+# Environment variables & secrets
+.env
+
+# Local databases & generated vector stores
+*.db
+faiss_index/
+data/faiss_index/
