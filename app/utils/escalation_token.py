@@ -36,6 +36,7 @@ def create_escalation_token(
     return {
         "ticket_id": ticket_id,
         "expires_at": expires_at.isoformat(),
+        'token' : token,
         "review_url" :f"http://localhost:8000/compliance/review?token={token}",
     }
 
