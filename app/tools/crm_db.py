@@ -102,7 +102,6 @@ def check_transaction_status(txn_id: str) -> str:
 
 
 @tool
-@tool
 def process_instant_refund(txn_id: str, reason_code: DisputeReason) -> str:
     """
     Attempt an instant automated refund for a failed or duplicate UPI/Card transaction.
